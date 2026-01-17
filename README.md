@@ -1,4 +1,5 @@
-# Sui
+# Suihttps://github.com/RikkaApps/Sui.git
+
 
 Modern super user interface (SUI) implementation on Android. <del>The name, Sui, also comes from [a character](https://www.pixiv.net/artworks/71435059).</del>
 
